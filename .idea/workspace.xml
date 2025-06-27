@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="707d3d4a-e7ea-4270-9984-d6672f4e7b62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/adaptive-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/splash-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/assets/splash-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/api/authApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/api/calculateApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/api/drinksApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/api/partiesApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/api/profileApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/components/auth/AuthHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/components/common/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/components/common/DrinkListScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/components/common/DrinkListScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/components/common/TextInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/constants/DRINK_STRENGTH_RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/AppNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/AuthStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/DrinksStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/MainTabNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/PartiesStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/navigation/ProfileStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/auth/login/LoginScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/auth/login/LoginScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/auth/register/RegisterScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/auth/register/RegisterScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/DrinksScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/addDrink/AddDrinkScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/addDrink/AddDrinkScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/basicDrink/BasicDrinksScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/basicDrink/BasicDrinksScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/customDrink/CustomDrinksScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/customDrink/CustomDrinksScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/drinkDetail/DrinkDetailScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/drinks/drinkDetail/DrinkDetailScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/CalculationResultScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/CalculationResultScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/NewPartyScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/NewPartyScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/PartiesScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/PartiesScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/PartyDetailsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/parties/PartyDetailsScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/AccountDataScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/AccountDataScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/ParametersScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/ParametersScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/ProfileScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/screens/main/profile/ProfileScreen.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/utils/jwtUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/utils/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlcoholTrackerFrontend/src/utils/validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="backend" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="825a8ff1-b76e-4d10-9a48-1161312804e1" />
+        <option name="url" value="https://github.com/KanatnikovMax/AlcoholTracker.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2z5oBTfA5RJiLipsRtOUOlp2AoY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/79192/IdeaProjects/AlcoholTracker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79192\IdeaProjects\AlcoholTracker" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707d3d4a-e7ea-4270-9984-d6672f4e7b62" name="Changes" comment="" />
+      <created>1751030160075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751030160075</updated>
+      <workItem from="1751030161982" duration="2275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/backend" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
